@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+*.exe
+
+# Debugging images
+debug_band.png
